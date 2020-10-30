@@ -9,6 +9,6 @@
 
 ## 配線図
 
-<img src="img/haisen" width="50%">
+<img src="img/haisen.png" width="50%">
 
-<img src="img/uart" width="50%">
+<img src="img/uart.png" width="50%">
